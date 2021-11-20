@@ -1,7 +1,4 @@
 from tkinter import *
-from tkinter import font
-from types import CoroutineType
-from PIL import ImageTk,Image
 from tkinter import messagebox
 from tkinter.font import Font
 import sqlite3
