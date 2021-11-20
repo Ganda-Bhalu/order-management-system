@@ -8,7 +8,7 @@ import sqlite3
 
 root =Tk()
 root.title('Order management system')
-root.iconbitmap('D:/1__Projects/Project workspace/deadpool.ico')
+root.iconbitmap('.\deadpool.ico')
 root.geometry("1280x720")
 
 bigfont= Font(family="Helvetica",size=24,weight="bold",slant="roman",underline=0,overstrike=0)
